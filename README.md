@@ -1,3 +1,8 @@
+# init-paginator
+You can visit the live version of the project at <a href="https://hmif20.netlify.app">here</a>.
+
+Made with React.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
